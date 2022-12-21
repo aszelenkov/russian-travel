@@ -1,0 +1,8 @@
+.link-decorate {
+  transition: opacity 0.7s linear;
+  color: #fff;
+}
+
+.link-decorate:hover {
+  opacity: 0.8;
+}
