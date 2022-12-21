@@ -3,7 +3,7 @@
 ## Краткое описание:
 Сайт сверстан по макету из Figma, в нем используется адаптивность для различных разрешений экранов и анимация ссылок.
 
-* [Ссылка на проект](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на проект](https://aszelenkov.github.io/russian-travel/)
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
@@ -11,7 +11,7 @@
 
 **Client:** HTML, CSS
 
-**Server:** Git Hub
+**Server:** GitHub
 
 
 ## Инструментарий
