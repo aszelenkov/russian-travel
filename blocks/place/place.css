@@ -22,15 +22,10 @@
 
 @media screen and (max-width: 767px) {
   .place {
-    column-gap: 12px;
-  }
-}
-
-@media screen and (max-width: 680px) {
-  .place {
     grid-template-columns: 100%;
+    column-gap: 12px;
     row-gap: 32px;
-
   }
 }
+
 
